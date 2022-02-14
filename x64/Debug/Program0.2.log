@@ -1,0 +1,7 @@
+﻿  Program0.2.cpp
+E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\Program0.2.cpp(53,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\Program0.2.cpp(101,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\Program0.2.cpp(88,24): warning C4101: 'ID': unreferenced local variable
+E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\Program0.2.cpp(164,15): warning C4101: 'again': unreferenced local variable
+E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\Program0.2.cpp(186,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Program0.2.vcxproj -> E:\1 - Mustafa\Uni courses\2 .yıl\1.dönem\c++\Program0.2\x64\Debug\Program0.2.exe
